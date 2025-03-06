@@ -117,6 +117,6 @@ terraform apply tfplan           # Apply from saved plan
 ✅ Implement proper access controls  
 ✅ Regularly format & validate configuration (`terraform fmt`, `terraform validate`)  
 
----
+-
 📝 **Keep this cheat sheet handy while working with Terraform!** 🚀
 
