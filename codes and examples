@@ -20,7 +20,7 @@ bucket_name = ""
 ami             = ""
 instance_type   = "t2.micro"
 key_name        = ""
-instance_name   = "Bastion-host"
+instance_name   = "Bastion-host" 
 
 #VPC variables
 #=============
